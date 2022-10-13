@@ -1,0 +1,24 @@
+brotlipy @ file:///D:/bld/brotlipy_1648854320485/work
+certifi==2022.9.24
+cffi @ file:///D:/bld/cffi_1656782950753/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1661170624537/work
+cryptography @ file:///D:/bld/cryptography_1657174149370/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1663625384323/work
+joblib==1.2.0
+lightfm @ file:///D:/bld/lightfm_1646864087715/work
+numpy==1.23.4
+pandas==1.5.0
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1636257122734/work
+pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1663846997386/work
+PySocks @ file:///D:/bld/pysocks_1661604991356/work
+python-dateutil==2.8.2
+pytz==2022.4
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1661872987712/work
+scikit-learn==1.1.2
+scipy==1.9.2
+six==1.16.0
+sklearn==0.0
+threadpoolctl==3.1.0
+urllib3==1.26.12
+win-inet-pton @ file:///D:/bld/win_inet_pton_1648771891747/work
+wincertstore==0.2

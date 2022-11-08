@@ -146,7 +146,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/lightfm_precision.jpg" width="600" height="80">
+  <img src="./Images/lightfm_precision.jpg" width="600" height="60">
   <br>
 </p>
 

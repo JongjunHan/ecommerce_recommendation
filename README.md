@@ -1,7 +1,7 @@
 # ecommerce_recommendation
 <p align="left">
   <br>
-  <img src="./Images/ecommerce.jpg" width="600" height="300">
+  <img src="./Images/ecommerce.jpg" width="600" height="400">
   <br>
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/recommendation.jpg" width="400" height="200">
+  <img src="./Images/recommendation.jpg" width="500" height="300">
   <br>
 </p>
   

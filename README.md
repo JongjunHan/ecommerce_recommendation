@@ -112,13 +112,35 @@
 
 - 모델의 성능 평가는 P@K를 사용하여 진행
 
+- 알고리즘의 경우에는 추가적으로 구현 시간이 중요하다고 판단하여 구현 시간에 대한 비교 평가를 함께 진행함
+
 ### 4-1. ALS 모델
 
 <p align="left">
   <br>
-  <img src="./Images/als_precision.jpg" width="500" height="50">
+  <img src="./Images/als_precision.jpg" width="600" height="50">
   <br>
 </p>
 
 - 0.011 정도의 P@K로 낮은 정도의 성능을 보임
+
+<p align="left">
+  <br>
+  <img src="./Images/als_result.jpg" width="400" height="300">
+  <br>
+</p>
+
+- 그럼에도 알고리즘을 통한 모델 시연 결과 비슷한 제품군들에 대하여 추천을 해주는 결과를 보임
+
+- 하지만 가격대가 일정치 못하며 가격의 편차가 큰 것을 알 수가 있음
+
+<p align="left">
+  <br>
+  <img src="./Images/als_time.jpg" width="600" height="50">
+  <br>
+</p>
+
+- 구현 시간의 경우 굉장히 빠른 속도로 제품 추천 알고리즘을 구현하는 것을 알 수 있음
+
+### 4-2. LightFM 모델
 

@@ -12,7 +12,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/project_goals.jpg" width="500" height="200">
+  <img src="./Images/recommendation.jpg" width="500" height="300">
   <br>
 </p>
   
@@ -28,6 +28,11 @@
 <p align="justify">
   
 ## 2. 프로젝트를 통해 얻는 이익
+<p align="left">
+  <br>
+  <img src="./Images/project_goals.jpg" width="500" height="200">
+  <br>
+</p>
 
 - 목표 : 매출증대
 
@@ -62,5 +67,9 @@
 </p>
 
 - 각 카테고리 별 선호도를 조사함으로 데이터의 기반이 된 이커머스 기업에 대한 인기 품목을 분석함
+</p>
 
-3. 
+<p align="justify">
+  
+### 3-2. 데이터 전처리 및 모델링 과정
+

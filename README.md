@@ -1,9 +1,20 @@
 # ecommerce_recommendation
+<p align="left">
+  <br>
+  <img src="./Images/ecommerce.jpg" width="600" height="300">
+  <br>
+</p>
 
 #### 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ## 1. 프로젝트 목적 및 배경
 <p align="justify">
+
+<p align="left">
+  <br>
+  <img src="./Images/recommendation.jpg" width="400" height="200">
+  <br>
+</p>
   
 - 이커머스 도메인에 대한 학습을 통해 지식 습득을 전제로 한 코드스테이츠 프로젝트
 

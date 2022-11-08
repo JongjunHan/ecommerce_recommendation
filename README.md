@@ -1,6 +1,6 @@
 # ecommerce_recommendation
 
-## 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+### 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ## 프로젝트 목적 및 배경
 <p align="justify">
@@ -25,5 +25,6 @@
 - 분석을 통한 근거 확립으로 가중치를 새롭게 선정하여 그에 맞춘 추천 시스템을 개발함에 따라 매출증대를 이룰 수 있다고 판단함
 
 <p align="justify">
+  
 ## 프로젝트 과정
 </p>

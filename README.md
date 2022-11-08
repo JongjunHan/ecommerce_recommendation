@@ -12,7 +12,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/recommendation.jpg" width="500" height="300">
+  <img src="./Images/project_goals.jpg" width="500" height="200">
   <br>
 </p>
   
@@ -51,4 +51,16 @@
   <br>
 </p>
 
+- 기본적으로 가장 중요한 것은 CVR(전환률) 이라는 판단 하에 전환률에 대한 일별 차이에 대한 분석을 진행
 </p>
+
+2. 카테고리별 분석
+<p align="left">
+  <br>
+  <img src="./Images/category.jpg" width="400" height="200">
+  <br>
+</p>
+
+- 각 카테고리 별 선호도를 조사함으로 데이터의 기반이 된 이커머스 기업에 대한 인기 품목을 분석함
+
+3. 

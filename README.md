@@ -33,10 +33,10 @@
   
 ### 3-1. 데이터 분석
   
-- CVR(전환률)에 대한 분석
+1. CVR(전환률)에 대한 분석
 <p align="center">
   <br>
-  <img src="./Images/cvr.jpg">
+  <img src="./Images/cvr.jpg" width="200" height="400">
   <br>
 </p>
 

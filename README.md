@@ -126,7 +126,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/als_result.jpg" width="400" height="300">
+  <img src="./Images/als_result.jpg" width="400" height="275">
   <br>
 </p>
 
@@ -154,7 +154,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/lightfm_result.jpg" width="400" height="300">
+  <img src="./Images/lightfm_result.jpg" width="400" height="275">
   <br>
 </p>
 

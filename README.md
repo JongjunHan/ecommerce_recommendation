@@ -69,8 +69,18 @@
 - 각 카테고리 별 선호도를 조사함으로 데이터의 기반이 된 이커머스 기업에 대한 인기 품목을 분석함
 </p>
 
-<p align="justify">
-  
 ### 3-2. 데이터 전처리 및 모델링 과정
 
+- 데이터에 대한 전처리와 모델링을 위해 추천 모델에 대한 학습을 진행
+
+- 그 결과 Sparse Matrix 데이터를 사용한 CF(협업 필터링) 모델을 사용한 모델링을 진행하기로 함
+
+<p align="left">
+  <br>
+  <img src="./Images/sparse_matrix.jpg" width="200" height="200">
+  <br>
 </p>
+
+- 사용한 모델은 ALS, LightFM 모델을 사용
+
+

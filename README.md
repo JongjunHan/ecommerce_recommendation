@@ -2,7 +2,7 @@
 
 #### 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
-## 프로젝트 목적 및 배경
+## 1. 프로젝트 목적 및 배경
 <p align="justify">
   
 - 이커머스 도메인에 대한 학습을 통해 지식 습득을 전제로 한 코드스테이츠 프로젝트
@@ -16,7 +16,7 @@
 
 <p align="justify">
   
-## 프로젝트를 통해 얻는 이익
+## 2. 프로젝트를 통해 얻는 이익
 
 - 목표 : 매출증대
 
@@ -26,5 +26,12 @@
 
 <p align="justify">
   
-## 프로젝트 과정
+## 3. 프로젝트 과정
+</p>
+
+<p align="justify">
+  
+### 3-1. 데이터 분석
+  
+- 
 </p>

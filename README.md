@@ -36,7 +36,7 @@
 1. CVR(전환률)에 대한 분석
 <p align="left">
   <br>
-  <img src="./Images/cvr.jpg" width="300" height="150">
+  <img src="./Images/cvr.jpg" width="400" height="200">
   <br>
 </p>
 

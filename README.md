@@ -118,7 +118,7 @@
 
 <p align="left">
   <br>
-  <img src="./Images/als_precision.jpg" width="600" height="70">
+  <img src="./Images/als_precision.jpg" width="600" height="80">
   <br>
 </p>
 

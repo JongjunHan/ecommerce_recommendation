@@ -1,6 +1,6 @@
 # ecommerce_recommendation
 
-### 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+#### 데이터 출처 : https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
 
 ## 프로젝트 목적 및 배경
 <p align="justify">
